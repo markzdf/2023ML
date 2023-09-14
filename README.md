@@ -1,2 +1,2 @@
-# XMU-ML
-A 3rd year undergrad ML [course](http://121.192.177.201/course/machine_learning/guide_2021) for physics students, based on Andrew's introductory ML course on Coursera. The instructor is [Yong Zhang](https://phys.xmu.edu.cn/info/1028/1208.htm)
+# 2023Fall 机器学习
+这是厦门大学物理学院开的一门面向大三学生的机器学习课。课程指南http://121.192.177.201/course/machine_learning/guide_2021
