@@ -3,4 +3,4 @@
 
 课程指南 http://121.192.177.201/course/machine_learning/guide_2021
 
-这里主要存放课件和我的作业
+这里主要存放课件(pdf)和我的作业(ipynb)
